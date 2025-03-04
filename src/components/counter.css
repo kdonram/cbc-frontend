@@ -1,0 +1,21 @@
+.background{
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    background-color: greenyellow;
+    width: 70px;
+    height: 70px;
+    border-radius: 6px;
+    font-size: 60px;
+}
+
+span{
+    font-size: 70px;
+}
